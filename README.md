@@ -1,12 +1,12 @@
-# Kyverno & NetworkPolicies zum Anfassen – Begleitcode
+# Kyverno & NetworkPolicies hands-on – Companion Code
 
-Begleitcode zum Buch **Kyverno & NetworkPolicies zum Anfassen** – Policy as Code und Netzwerksegmentierung für Kubernetes. Teil der Reihe IT-Trainingslager von Thomas Zachmann.
+Companion code for the book **Kyverno & NetworkPolicies hands-on** (German edition: *Kyverno & NetworkPolicies zum Anfassen*) – policy as code and network segmentation for Kubernetes. Part of Thomas Zachmann's IT Drills series.
 
-Buchseite: https://it-trainingslager.de/buecher/kyverno-networkpolicies
+Book page: https://itdrills.com/books/kyverno-networkpolicies · German edition: https://it-trainingslager.de/buecher/kyverno-networkpolicies
 
-Der Code begleitet das Buch; Erklärungen und Übungen stehen im Buch.
+The code accompanies the book; explanations and exercises are in the book.
 
-## Inhalt
+## Contents
 
 - `cilium/`
 - `demo/`
@@ -14,14 +14,14 @@ Der Code begleitet das Buch; Erklärungen und Übungen stehen im Buch.
 - `kyverno-ops/`
 - `np-tests/`
 
-## Schnellstart
+## Quick start
 
 ```bash
 git clone https://github.com/thomaszachmann/kyverno-networkpolicies-zum-anfassen.git
 ```
 
-An Tag 0 kopierst du den Begleitcode nach `~/guard-lab/code` – Details stehen im Kapitel „Tag 0“ des Buchs.
+On Day 0 you copy the companion code to `~/guard-lab/code` – details are in the book's "Day 0" chapter.
 
-## Lizenz
+## License
 
-Code: MIT (siehe LICENSE). Buchtexte, Abbildungen und Cover sind nicht Teil dieses Repos und nicht lizenziert.
+Code: MIT (see LICENSE). Book text, figures and cover are not part of this repo and are not licensed.
